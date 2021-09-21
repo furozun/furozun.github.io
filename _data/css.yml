@@ -4,7 +4,7 @@ MathJax:
     - key : type
       val : text/javascript
     - key : src
-      val : http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+      val : https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
     - key : anasync
       val : "True"
   description : MathJax
